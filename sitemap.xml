@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://namastens.github.io/mantras/playlist/</loc>
+    <lastmod>2018-03-26T15:09:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://namastens.github.io/mantras/mantra-dieciseis/</loc>
     <lastmod>2018-01-22T14:09:24-08:00</lastmod>
   </url>
@@ -89,7 +94,7 @@
   
   <url>
     <loc>https://namastens.github.io/</loc>
-    <lastmod>2018-01-22T14:09:24-08:00</lastmod>
+    <lastmod>2018-03-26T15:09:00-07:00</lastmod>
   </url>
   
   <url>
@@ -99,7 +104,7 @@
   
   <url>
     <loc>https://namastens.github.io/mantras/</loc>
-    <lastmod>2018-01-22T14:09:24-08:00</lastmod>
+    <lastmod>2018-03-26T15:09:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
